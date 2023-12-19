@@ -256,7 +256,7 @@ div.alex h2, div.lucas h2{
   background: #0f0f0f;
 }
 .cont-index a:hover:not(.actif){
-  background: linear-gradient(to right, #0f0f0f #000000 #0f0f0f);
+  background: #1d1e25;
 }
 
 figcaption{
